@@ -2,23 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a51d104-91aa-4a45-a065-706cdbb827dc" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/custom-button/custom-button.component.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/custom-button/custom-button.styles.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/form-input/form-input.component.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/form-input/form-input.styles.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/sign-in/sign-in.component.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/sign-in/sign-in.styles.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firebase/firebase.utils.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/sign-in-and-sign-up/sign-in-and-sign-up.component.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/sign-in-and-sign-up/sign-in-and-sign-up.styles.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/header/header.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/header.component.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/header/header.styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/header.styles.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firebase/firebase.utils.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/firebase/firebase.utils.jsx" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -51,7 +37,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="App.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="App.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/App.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
@@ -63,8 +49,8 @@
       <file leaf-file-name="firebase.utils.jsx" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/firebase/firebase.utils.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="46" selection-start-line="23" selection-start-column="46" selection-end-line="23" selection-end-column="46" />
+            <state relative-caret-position="360">
+              <caret line="24" column="22" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
               <folding>
                 <element signature="e#0#36#0" expanded="true" />
               </folding>
@@ -72,11 +58,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="App.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="App.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/App.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="39" column="32" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="32" />
+            <state relative-caret-position="458">
+              <caret line="36" column="31" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="31" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -108,8 +94,8 @@
       <file leaf-file-name="index.d.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/node_modules/firebase/index.d.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="676">
-              <caret line="2872" column="19" selection-start-line="2872" selection-start-column="4" selection-end-line="2872" selection-end-column="19" />
+            <state relative-caret-position="959">
+              <caret line="7219" column="8" selection-start-line="7219" selection-start-column="4" selection-end-line="7219" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -141,6 +127,7 @@
     <findStrings>
       <find>signinwithPopup</find>
       <find>firebase</find>
+      <find>doc(</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -167,8 +154,6 @@
         <option value="$PROJECT_DIR$/src/pages/shop/shop.data.js" />
         <option value="$PROJECT_DIR$/src/pages/sign-in-and-sign-up/sign-in-and-sign-up.component.jsx" />
         <option value="$PROJECT_DIR$/src/components/form-input/form-input.component.jsx" />
-        <option value="$PROJECT_DIR$/src/firebase/firebase.utils.jsx" />
-        <option value="$PROJECT_DIR$/src/App.js" />
         <option value="$PROJECT_DIR$/src/components/header/header.styles.scss" />
         <option value="$PROJECT_DIR$/src/components/custom-button/custom-button.component.jsx" />
         <option value="$PROJECT_DIR$/src/components/custom-button/custom-button.styles.scss" />
@@ -176,6 +161,8 @@
         <option value="$PROJECT_DIR$/src/components/sign-in/sign-in.styles.scss" />
         <option value="$PROJECT_DIR$/src/components/header/header.component.jsx" />
         <option value="$PROJECT_DIR$/src/App.css" />
+        <option value="$PROJECT_DIR$/src/firebase/firebase.utils.jsx" />
+        <option value="$PROJECT_DIR$/src/App.js" />
       </list>
     </option>
   </component>
@@ -421,12 +408,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1579105825827</updated>
-      <workItem from="1579105827723" duration="14018000" />
+      <workItem from="1579105827723" duration="16217000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14018000" />
+    <option name="totallyTimeSpent" value="16217000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -453,7 +440,7 @@
       <window_info anchor="bottom" id="Version Control" />
       <window_info id="npm" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" weight="0.32917705" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
       <window_info anchor="right" id="SciView" />
       <window_info anchor="right" id="Theme Preview" />
       <window_info id="Favorites" side_tool="true" />
@@ -651,33 +638,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/firebase/index.d.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="676">
-          <caret line="2872" column="19" selection-start-line="2872" selection-start-column="4" selection-end-line="2872" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/firebase/firebase.utils.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="46" selection-start-line="23" selection-start-column="46" selection-end-line="23" selection-end-column="46" />
-          <folding>
-            <element signature="e#0#36#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/App.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="39" column="32" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/custom-button/custom-button.component.jsx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -733,6 +693,33 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/firebase/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="959">
+          <caret line="7219" column="8" selection-start-line="7219" selection-start-column="4" selection-end-line="7219" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/firebase/firebase.utils.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="22" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="458">
+          <caret line="36" column="31" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
