@@ -37,10 +37,6 @@ class App extends React.Component {
           currentUser: userAuth
         }, () => console.log(this.state));
       }
-
-      // this.setState({currentUser: user});
-      // createUserProfileDocument()
-      // console.log(user);
     });
   }
 
