@@ -2,54 +2,56 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a51d104-91aa-4a45-a065-706cdbb827dc" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/assets/images/hats.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/jackets.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/men.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/shop-img/hats/blue-beanie.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/shop-img/hats/blue-snapback.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/shop-img/hats/brown-brim.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/shop-img/hats/brown-cowboy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/shop-img/hats/green-beanie.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/shop-img/hats/grey-brim.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/shop-img/hats/palm-tree-cap.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/shop-img/hats/red-beanie.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/shop-img/hats/wolf-cap.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/shop-img/jackets/black-shearling.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/shop-img/jackets/blue-jean-jacket.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/shop-img/jackets/brown-shearling.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/shop-img/jackets/brown-trench.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/shop-img/jackets/grey-jean-jacket.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/shop-img/mens/camo-vest.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/shop-img/mens/floral-shirt.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/shop-img/mens/long-sleeve.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/shop-img/mens/pink-shirt.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/shop-img/mens/polka-dot-shirt.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/shop-img/mens/roll-up-jean-shirt.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/shop-img/sneakers/adidas-nmd.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/shop-img/sneakers/black-converse.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/shop-img/sneakers/nike-brown.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/shop-img/sneakers/nike-funky.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/shop-img/sneakers/nikes-red.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/shop-img/sneakers/timberlands.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/shop-img/sneakers/white-nike-high-tops.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/shop-img/sneakers/yeezy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/shop-img/womens/blue-tank.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/shop-img/womens/floral-blouse.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/shop-img/womens/floral-skirt.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/shop-img/womens/red-polka-dot-dress.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/shop-img/womens/striped-sweater.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/shop-img/womens/white-vest.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/shop-img/womens/yellow-track-suit.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/sneakers.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/womens.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/shop.data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/collection-item/collection-item.component.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/collection-item/collection-item.styles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/preview-collection/preview-collection.component.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/preview-collection/preview-collection.styles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/shop/shop.component.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/shop/shop.styles.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/directory/directory.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/directory/directory.component.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/menu-item/menu-item.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/menu-item/menu-item.component.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/hats.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/hats.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/jackets.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/jackets.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/men.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/men.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/shop-img/hats/blue-beanie.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/shop-img/hats/blue-beanie.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/shop-img/hats/blue-snapback.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/shop-img/hats/blue-snapback.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/shop-img/hats/brown-brim.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/shop-img/hats/brown-brim.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/shop-img/hats/brown-cowboy.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/shop-img/hats/brown-cowboy.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/shop-img/hats/green-beanie.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/shop-img/hats/green-beanie.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/shop-img/hats/grey-brim.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/shop-img/hats/grey-brim.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/shop-img/hats/palm-tree-cap.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/shop-img/hats/palm-tree-cap.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/shop-img/hats/red-beanie.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/shop-img/hats/red-beanie.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/shop-img/hats/wolf-cap.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/shop-img/hats/wolf-cap.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/shop-img/jackets/black-shearling.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/shop-img/jackets/black-shearling.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/shop-img/jackets/blue-jean-jacket.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/shop-img/jackets/blue-jean-jacket.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/shop-img/jackets/brown-shearling.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/shop-img/jackets/brown-shearling.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/shop-img/jackets/brown-trench.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/shop-img/jackets/brown-trench.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/shop-img/jackets/grey-jean-jacket.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/shop-img/jackets/grey-jean-jacket.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/shop-img/mens/camo-vest.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/shop-img/mens/camo-vest.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/shop-img/mens/floral-shirt.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/shop-img/mens/floral-shirt.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/shop-img/mens/long-sleeve.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/shop-img/mens/long-sleeve.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/shop-img/mens/pink-shirt.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/shop-img/mens/pink-shirt.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/shop-img/mens/polka-dot-shirt.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/shop-img/mens/polka-dot-shirt.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/shop-img/mens/roll-up-jean-shirt.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/shop-img/mens/roll-up-jean-shirt.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/shop-img/sneakers/adidas-nmd.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/shop-img/sneakers/adidas-nmd.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/shop-img/sneakers/black-converse.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/shop-img/sneakers/black-converse.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/shop-img/sneakers/nike-brown.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/shop-img/sneakers/nike-brown.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/shop-img/sneakers/nike-funky.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/shop-img/sneakers/nike-funky.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/shop-img/sneakers/nikes-red.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/shop-img/sneakers/nikes-red.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/shop-img/sneakers/timberlands.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/shop-img/sneakers/timberlands.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/shop-img/sneakers/white-nike-high-tops.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/shop-img/sneakers/white-nike-high-tops.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/shop-img/sneakers/yeezy.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/shop-img/sneakers/yeezy.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/shop-img/womens/blue-tank.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/shop-img/womens/blue-tank.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/shop-img/womens/floral-blouse.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/shop-img/womens/floral-blouse.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/shop-img/womens/floral-skirt.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/shop-img/womens/floral-skirt.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/shop-img/womens/red-polka-dot-dress.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/shop-img/womens/red-polka-dot-dress.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/shop-img/womens/striped-sweater.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/shop-img/womens/striped-sweater.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/shop-img/womens/white-vest.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/shop-img/womens/white-vest.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/shop-img/womens/yellow-track-suit.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/shop-img/womens/yellow-track-suit.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/sneakers.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/sneakers.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/womens.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/womens.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/shop.data.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/shop/shop.data.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -61,18 +63,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="homepage.component.jsx" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pages/homepage/homepage.component.jsx">
           <provider selected="true" editor-type-id="text-editor">
@@ -85,29 +75,35 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="App.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/App.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="36" selection-start-line="1" selection-start-column="36" selection-end-line="1" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="homepage.styles.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pages/homepage/homepage.styles.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="App.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/App.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+            <state relative-caret-position="270">
+              <caret line="18" column="49" selection-start-line="18" selection-start-column="49" selection-end-line="18" selection-end-column="49" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="preview-collection.component.jsx" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/preview-collection/preview-collection.component.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="collection-item.component.jsx" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/collection-item/collection-item.component.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -116,20 +112,38 @@
         </entry>
       </file>
       <file leaf-file-name="shop.data.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/assets/shop.data.js">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/src/pages/shop/shop.data.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="722">
+              <caret line="248" column="25" selection-start-line="248" selection-start-column="25" selection-end-line="248" selection-end-column="25" />
+            </state>
+          </provider>
         </entry>
       </file>
-      <file leaf-file-name="menu-item.component.jsx" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/components/menu-item/menu-item.component.jsx">
+      <file leaf-file-name="App.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/App.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="75" selection-start-line="5" selection-start-column="75" selection-end-line="5" selection-end-column="75" />
+            <state relative-caret-position="30">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="shop.component.jsx" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pages/shop/shop.component.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="shop.styles.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pages/shop/shop.styles.scss">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file leaf-file-name="directory.component.jsx" pinned="false" current-in-tab="false">
@@ -140,15 +154,6 @@
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="menu-item.styles.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/menu-item/menu-item.styles.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -168,12 +173,17 @@
         <option value="$PROJECT_DIR$/src/pages/homepage/homepage.styles.scss" />
         <option value="$PROJECT_DIR$/src/pages/homepage/homepage.component.jsx" />
         <option value="$PROJECT_DIR$/public/index.html" />
-        <option value="$PROJECT_DIR$/src/App.css" />
         <option value="$PROJECT_DIR$/src/components/menu-item/menu-item.styles.scss" />
         <option value="$PROJECT_DIR$/src/index.js" />
         <option value="$PROJECT_DIR$/src/components/directory/directory.component.jsx" />
-        <option value="$PROJECT_DIR$/src/App.js" />
         <option value="$PROJECT_DIR$/src/components/menu-item/menu-item.component.jsx" />
+        <option value="$PROJECT_DIR$/src/App.js" />
+        <option value="$PROJECT_DIR$/src/pages/shop/shop.component.jsx" />
+        <option value="$PROJECT_DIR$/src/components/preview-collection/preview-collection.styles.scss" />
+        <option value="$PROJECT_DIR$/src/components/preview-collection/preview-collection.component.jsx" />
+        <option value="$PROJECT_DIR$/src/components/collection-item/collection-item.component.jsx" />
+        <option value="$PROJECT_DIR$/src/pages/shop/shop.data.js" />
+        <option value="$PROJECT_DIR$/src/App.css" />
       </list>
     </option>
   </component>
@@ -225,13 +235,14 @@
               <item name="my-online-shop" type="b2602c69:ProjectViewProjectNode" />
               <item name="my-online-shop" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="my-online-shop" type="b2602c69:ProjectViewProjectNode" />
               <item name="my-online-shop" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="collection-item" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="my-online-shop" type="b2602c69:ProjectViewProjectNode" />
@@ -251,6 +262,13 @@
               <item name="my-online-shop" type="b2602c69:ProjectViewProjectNode" />
               <item name="my-online-shop" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="preview-collection" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my-online-shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-online-shop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="pages" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -259,6 +277,13 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="pages" type="462c0819:PsiDirectoryNode" />
               <item name="homepage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my-online-shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-online-shop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="shop" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -276,9 +301,13 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components/collection-item" />
+      <recent name="$PROJECT_DIR$/src/components/preview-collection" />
       <recent name="$PROJECT_DIR$/src/assets" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/pages/shop" />
       <recent name="$PROJECT_DIR$/src/pages/homepage" />
     </key>
   </component>
@@ -368,12 +397,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1579105825827</updated>
-      <workItem from="1579105827723" duration="4598000" />
+      <workItem from="1579105827723" duration="7078000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4598000" />
+    <option name="totallyTimeSpent" value="7078000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -390,7 +419,7 @@
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info id="npm" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32917705" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32917705" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
@@ -456,22 +485,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/App.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="36" selection-start-line="1" selection-start-column="36" selection-end-line="1" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/menu-item/menu-item.styles.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assets/shop.data.js">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -510,23 +529,91 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/App.js">
+    <entry file="file://$PROJECT_DIR$/src/components/menu-item/menu-item.component.jsx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
-          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+          <caret line="15" column="36" lean-forward="true" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/menu-item/menu-item.component.jsx">
+    <entry file="file://$PROJECT_DIR$/src/pages/shop/shop.styles.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="75" selection-start-line="5" selection-start-column="75" selection-end-line="5" selection-end-column="75" />
+        <state relative-caret-position="270">
+          <caret line="18" column="49" selection-start-line="18" selection-start-column="49" selection-end-line="18" selection-end-column="49" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/shop/shop.component.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/preview-collection/collection-preview.styles.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" lean-forward="true" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/preview-collection/preview-collection.styles.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/collection-item/collection-item.styles.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="16" selection-start-column="1" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/preview-collection/preview-collection.component.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/collection-item/collection-item.component.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/shop/shop.data.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="722">
+          <caret line="248" column="25" selection-start-line="248" selection-start-column="25" selection-end-line="248" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
         </state>
       </provider>
     </entry>
