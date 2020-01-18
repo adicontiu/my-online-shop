@@ -4,6 +4,7 @@ import './cart-icon.styles.scss';
 import {connect} from 'react-redux';
 import {toggleCartHidden} from '../../redux/cart/cart.actions';
 import {selectCartItemsCount} from '../../redux/cart/cart.selectors';
+import {createStructuredSelector} from 'reselect';
 
 const CartIcon = ({toggleCartHidden, itemCount}) => (
     <div className="cart-icon" onClick={toggleCartHidden}>
@@ -17,9 +18,9 @@ const mapPropsToDispatch = dispatch => ({
 });
 
 //this is called a selector because we are computing a new value based on a value from state --> it is called every time one value from the state is modified  -> use memoization (reselect library)
-const mapStateToProps = state => (
+const mapStateToProps = createStructuredSelector(
     {
-      itemCount: selectCartItemsCount(state)
+      itemCount: selectCartItemsCount
     }
 );
 export default connect(

@@ -6,6 +6,9 @@ import {auth} from '../../firebase/firebase.utils';
 import './header.styles.scss';
 import CartIcon from "../cart-icon/cart-icon.component";
 import CartDropdown from "../cart-dropdown/cart-dropdown.component";
+import {selectCartHidden} from '../../redux/cart/cart.selectors';
+import {selectCurrentUser} from '../../redux/user/user.selectors';
+import {createStructuredSelector} from 'reselect';
 
 const Header = ({currentUser, hidden}) => (
     <div className="header">
@@ -31,9 +34,14 @@ const Header = ({currentUser, hidden}) => (
 
 //function to access the state!
 //state <- root state reducer
-const mapStateToProps = (state) => ({
-  currentUser: state.user.currentUser,
-  hidden: state.cart.hidden
+// const mapStateToProps = (state) => ({
+//   currentUser: selectCurrentUser(state),
+//   hidden: selectCartHidden(state)
+// });
+// above is the code without createStructuredSelector
+const mapStateToProps = createStructuredSelector({
+  currentUser: selectCurrentUser,
+  hidden: selectCartHidden
 });
 
 //higher order components(connect) are just functions that take components as arguments and then return you a new subcomponent
