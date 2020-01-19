@@ -29,6 +29,7 @@ const CheckoutPage = ({cartItems, total}) => (
       <div className="total">${total}
       </div>
       <StripeCheckoutButton price={total}/>
+      Test card is 4242-4242-4242-4242, expiration 01/20, 123
     </div>
 );
 
