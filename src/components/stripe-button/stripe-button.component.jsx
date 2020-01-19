@@ -8,7 +8,7 @@ const onToken = token => {
 
 const StripeCheckoutButton = ({price}) => {
   const priceForStripe = price * 100;
-  const apiKey = "pk_test_oQavNjB15iOaoqjsznM0hYTv003a59km4C";
+  const apiKey = "";
 
   return <StripeCheckout
       name="My Online Shop" // the pop-in header title
